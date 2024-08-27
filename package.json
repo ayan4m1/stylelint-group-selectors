@@ -15,11 +15,11 @@
     },
     "license": "MIT",
     "dependencies": {
-        "postcss": "^8.4.14",
+        "postcss": "^8.4.41",
         "md5": "2.3.0"
     },
     "peerDependencies": {
-        "stylelint": ">=14.9.1"
+        "stylelint": ">=16.8.2"
     },
     "homepage": "https://github.com/ssivanatarajan/stylelint-group-selectors/blob/master/README.md",
     "repository": {
